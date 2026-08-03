@@ -1,4 +1,4 @@
-import{handjet, manrope, bitcountGridDouble} from "../fonts"
+import{handjet, manrope, bitcountGridDouble} from "./fonts"
 
 const techStack = [
   "HTML",
