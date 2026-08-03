@@ -104,7 +104,7 @@ return(
 
             <div className="w-full lg:w-1/2 flex justify-center items-center py-10 lg:py-0">
 <div className={`${bitcountGridDouble.className} text-[#E90C06] text-3xl sm:text-6xl md:text-7xl
-        lg:text-9xl text-center`}>
+        lg:text-9xl text-center pl-4`}>
     TECH STACK
 </div>
 </div>
@@ -114,11 +114,11 @@ return(
 <div className="flex items-center justify-between"> 
     <h6 className={`${handjet.className} text-2xl md:text-3xl`}>summAIze</h6>
 
-    <div className=" flex items-center gap-2 ">
+    <div className=" flex items-center ml-2 md:gap-2">
 <img
 src="github-icon.png"
 alt="github"
-className="w-8 h-8"
+className="w-5 h-5 sm:w-8 sm:h-8 flex shrink-0"
 >
 </img>
 
@@ -130,7 +130,7 @@ className="w-8 h-8"
 <img
 src="outward_arrow.png"
 alt="arrow"
-className="w-8 h-8 mt-2"
+className="w-5 h-5 sm:w-8 sm:h-8 mt-2 flex-shrink-0"
 >
 </img>
 </a>

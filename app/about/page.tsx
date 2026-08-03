@@ -36,7 +36,7 @@ export default function aboutMe () {
         <div className="flex justify-center px-4 py-10">
             <div className="  w-full max-w-4xl bg-[#3c3d3c] border my-10">
 
-                <div className={`${firaCode.className} text-white px-6 py-6 sm:px-6 md:px-10 md:py-10 text-[7px]
+                <div className={`${firaCode.className} text-white px-6 py-6 sm:px-6 md:px-10 md:py-10 text-[7.5px]
           md:text-base lg:text-lg flex flex-col gap-3`}>
                 
                 {items.map ((item, index) => (
